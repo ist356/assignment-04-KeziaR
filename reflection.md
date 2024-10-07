@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Kezia Regis
+Sudent Email:  knregis@syr.edu
 
 ## Instructions
 
@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+Pandaslib.py was fairly simple and it was a great bridge to unibrow.py. When completing unibrow.py I was able to use class notes from unit 2's streamlit and unit 3's pandas like loading in a file (pandas), then using multiselect for columns (streamlit).
